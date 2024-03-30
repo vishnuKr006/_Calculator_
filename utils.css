@@ -1,0 +1,31 @@
+.text-center{
+    color: rgb(69, 139, 230);
+    text-align: center;
+    font-weight: 900;
+    margin-top: 15vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* .bg-red{
+    background-color: red;
+} */
+
+.mx-auto{
+    margin: auto;
+}
+
+/* .m-w-20{
+    max-width: fit-content;
+} */
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
